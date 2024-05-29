@@ -1,0 +1,12 @@
+C:\Users\umarm\OneDrive\Desktop\Vp_project\ModelClassLibrary\bin\Debug\net7.0\ModelClassLibrary.deps.json
+C:\Users\umarm\OneDrive\Desktop\Vp_project\ModelClassLibrary\bin\Debug\net7.0\ModelClassLibrary.dll
+C:\Users\umarm\OneDrive\Desktop\Vp_project\ModelClassLibrary\bin\Debug\net7.0\ModelClassLibrary.pdb
+C:\Users\umarm\OneDrive\Desktop\Vp_project\ModelClassLibrary\obj\Debug\net7.0\ModelClassLibrary.csproj.AssemblyReference.cache
+C:\Users\umarm\OneDrive\Desktop\Vp_project\ModelClassLibrary\obj\Debug\net7.0\ModelClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umarm\OneDrive\Desktop\Vp_project\ModelClassLibrary\obj\Debug\net7.0\ModelClassLibrary.AssemblyInfoInputs.cache
+C:\Users\umarm\OneDrive\Desktop\Vp_project\ModelClassLibrary\obj\Debug\net7.0\ModelClassLibrary.AssemblyInfo.cs
+C:\Users\umarm\OneDrive\Desktop\Vp_project\ModelClassLibrary\obj\Debug\net7.0\ModelClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\umarm\OneDrive\Desktop\Vp_project\ModelClassLibrary\obj\Debug\net7.0\ModelClassLibrary.dll
+C:\Users\umarm\OneDrive\Desktop\Vp_project\ModelClassLibrary\obj\Debug\net7.0\refint\ModelClassLibrary.dll
+C:\Users\umarm\OneDrive\Desktop\Vp_project\ModelClassLibrary\obj\Debug\net7.0\ModelClassLibrary.pdb
+C:\Users\umarm\OneDrive\Desktop\Vp_project\ModelClassLibrary\obj\Debug\net7.0\ref\ModelClassLibrary.dll

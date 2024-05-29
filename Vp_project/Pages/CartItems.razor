@@ -1,0 +1,78 @@
+﻿@page "/CartItems"
+@using DataAccessLayer
+
+<h3>Cart</h3>
+<div class="wrap cf">
+    <div class="heading cf">
+        <a href="#" class="continue">Continue Shopping</a>
+    </div>
+    <div class="cart">
+        <ul class="cartWrap">
+            @foreach (var cartItem in GetCartProducts())
+            {
+                <li class="items @(cartItem.Id % 2 == 0 ? "even" : "odd")">
+                    <div class="infoWrap">
+                        <div class="cartSection">
+                            <img src="@cartItem.Image" height="200" width="200" alt="" class="itemImg" />
+                            <p class="itemNumber">Quantity : @cartItem.Quantity</p>
+                            <h3>@cartItem.Title</h3>
+                            <p>Price: $@cartItem.Price</p>
+                            <!-- Additional item details can be displayed here -->
+                        </div>
+                        <div class="prodTotal cartSection">
+                            <p>Total: $@(cartItem.Quantity * cartItem.Price)</p>
+                        </div>
+                        <div class="cartSection removeWrap">
+                            <button @onclick="@(() => DeleteCartItem(cartItem.Id))" class="btn btn-danger">X</button>
+                        </div>
+                        <br />
+                    </div>
+                </li>
+            }
+        </ul>
+    </div>
+
+    <div class="promoCode">
+        <label for="promo">Have A Promo Code?</label><input type="text" name="promo" placeholder="Enter Code" />
+        <a href="#" class="btn"></a>
+    </div>
+
+    <!-- Subtotal section -->
+    <div class="subtotal cf">
+        <ul>
+            <li class="totalRow"><span class="label">Subtotal</span><span class="value">$@CalculateSubtotal()</span></li>
+            <!-- Other subtotal rows (Shipping, Tax, etc.) can be added here -->
+            <li class="totalRow"><a href="#" class="btn continue">Checkout</a></li>
+        </ul>
+    </div>
+</div>
+
+@code {
+    private List<Cart> cartProducts;
+
+    protected override void OnInitialized()
+    {
+        cartProducts = GetCartProducts();
+    }
+
+    private void DeleteCartItem(int itemId)
+    {
+        DataAccessLayer.DBcontext.DeleteFromCart(itemId);
+        cartProducts.RemoveAll(item => item.Id == itemId);
+    }
+
+    private List<Cart> GetCartProducts()
+    {
+        return DataAccessLayer.DBcontext.GetCartProducts();
+    }
+
+    private decimal CalculateSubtotal()
+    {
+        decimal subtotal = 0;
+        foreach (var cartItem in cartProducts)
+        {
+            subtotal += cartItem.Quantity * cartItem.Price;
+        }
+        return subtotal;
+    }
+}

@@ -1,0 +1,56 @@
+﻿@page "/"
+@page "/{CategoryUrl}"
+@using Vp_Project.Shared
+
+@inject ICategoryService CategoryService;
+@inject NavigationManager Navigation;
+
+@if (category != null)
+{
+    <h1>Welcome to the @category.Name section!</h1>
+    <ProductList CategoryId="@category.Id"></ProductList>
+}
+else
+{
+    <div class="container">
+        <h1>Welcome to E-commerce App</h1>
+        <div class="categories">
+            @foreach (var cat in categories)
+            {
+                <div class="category" @onclick="() => NavigateToCategory(cat.Url)">
+                    <img src="@cat.ImageUrl" alt="@cat.Name" />
+                    <p>@cat.Name</p>
+                </div>
+            }
+        </div>
+    </div>
+}
+
+@code {
+    [Parameter]
+    public string CategoryUrl { get; set; }
+    private Category category = null;
+    private List<Category> categories = new List<Category>();
+
+    protected override void OnInitialized()
+    {
+        categories = CategoryService.Categories.ToList();
+    }
+
+    protected override void OnParametersSet()
+    {
+        if (!string.IsNullOrEmpty(CategoryUrl))
+        {
+            category = CategoryService.Categories.FirstOrDefault(c => c.Url.ToLower().Equals(CategoryUrl.ToLower()));
+        }
+        else
+        {
+            category = null;
+        }
+    }
+
+    private void NavigateToCategory(string url)
+    {
+        Navigation.NavigateTo($"/{url}");
+    }
+}

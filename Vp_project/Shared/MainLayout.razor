@@ -1,0 +1,33 @@
+﻿@inherits LayoutComponentBase
+
+@inject NavigationManager NavigationManager
+<PageTitle>E-commerce Website</PageTitle>
+
+<div class="page">
+    <div class="sidebar">
+        <NavMenu />
+    </div>
+
+    <main>
+
+        <div class="top-row px-4 body-bg">
+            <button class="btn btn-secondary" @onclick="GoToCartPage"><i class="oi oi-cart"></i>&nbsp;&nbsp;&nbsp;Cart</button>
+        </div>
+
+        <article class="content px-4">
+            @Body
+        </article>
+    </main>
+</div>
+@code{
+    private void GoToCartPage()
+    {
+        NavigationManager.NavigateTo("/CartItems");
+    }
+}
+<style>
+.sidebar{
+        background-image: linear-gradient(180deg,rgba(0, 149, 218, 0.85) 9.9%, rgb(56, 80, 114) 100.3%) !important;
+
+}
+    </style>

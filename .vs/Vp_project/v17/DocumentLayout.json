@@ -1,0 +1,530 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53F089DD-1427-4B74-A82D-CA53B0F517C6}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\umarm\\onedrive\\desktop\\vp_project\\dataaccesslayer\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F089DD-1427-4B74-A82D-CA53B0F517C6}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|c:\\users\\umarm\\onedrive\\desktop\\vp_project\\vp_project\\services\\productservice\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|solutionrelative:vp_project\\services\\productservice\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|c:\\users\\umarm\\onedrive\\desktop\\vp_project\\vp_project\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|solutionrelative:vp_project\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F089DD-1427-4B74-A82D-CA53B0F517C6}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\umarm\\onedrive\\desktop\\vp_project\\dataaccesslayer\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F089DD-1427-4B74-A82D-CA53B0F517C6}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|c:\\users\\umarm\\onedrive\\desktop\\vp_project\\vp_project\\services\\productservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|solutionrelative:vp_project\\services\\productservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|c:\\users\\umarm\\onedrive\\desktop\\vp_project\\vp_project\\services\\categoryservice\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|solutionrelative:vp_project\\services\\categoryservice\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|c:\\users\\umarm\\onedrive\\desktop\\vp_project\\vp_project\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|solutionrelative:vp_project\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|c:\\users\\umarm\\onedrive\\desktop\\vp_project\\vp_project\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|solutionrelative:vp_project\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|c:\\users\\umarm\\onedrive\\desktop\\vp_project\\vp_project\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|solutionrelative:vp_project\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|c:\\users\\umarm\\onedrive\\desktop\\vp_project\\vp_project\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|solutionrelative:vp_project\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|c:\\users\\umarm\\onedrive\\desktop\\vp_project\\vp_project\\shared\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|solutionrelative:vp_project\\shared\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|c:\\users\\umarm\\onedrive\\desktop\\vp_project\\vp_project\\shared\\productlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|solutionrelative:vp_project\\shared\\productlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|c:\\users\\umarm\\onedrive\\desktop\\vp_project\\vp_project\\services\\categoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|solutionrelative:vp_project\\services\\categoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|c:\\users\\umarm\\onedrive\\desktop\\vp_project\\vp_project\\pages\\cartitems.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|solutionrelative:vp_project\\pages\\cartitems.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|c:\\users\\umarm\\onedrive\\desktop\\vp_project\\vp_project\\shared\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|solutionrelative:vp_project\\shared\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|c:\\users\\umarm\\onedrive\\desktop\\vp_project\\vp_project\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|solutionrelative:vp_project\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9DBCBA-B220-43AF-8F48-92B0A4F14439}|ModelClassLibrary\\ModelClassLibrary.csproj|c:\\users\\umarm\\onedrive\\desktop\\vp_project\\modelclasslibrary\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9DBCBA-B220-43AF-8F48-92B0A4F14439}|ModelClassLibrary\\ModelClassLibrary.csproj|solutionrelative:modelclasslibrary\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|c:\\users\\umarm\\onedrive\\desktop\\vp_project\\vp_project\\pages\\productdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|solutionrelative:vp_project\\pages\\productdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|c:\\users\\umarm\\onedrive\\desktop\\vp_project\\vp_project\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|solutionrelative:vp_project\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|c:\\users\\umarm\\onedrive\\desktop\\vp_project\\vp_project\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|solutionrelative:vp_project\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|c:\\users\\umarm\\onedrive\\desktop\\vp_project\\vp_project\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|solutionrelative:vp_project\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|c:\\users\\umarm\\onedrive\\desktop\\vp_project\\vp_project\\wwwroot\\favicon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|solutionrelative:vp_project\\wwwroot\\favicon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_69MIFBU_SQLEXPRESS/Ecommerce/True/SqlTable/dbo.Cart.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|c:\\users\\umarm\\onedrive\\desktop\\vp_project\\vp_project\\data\\weatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|solutionrelative:vp_project\\data\\weatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|c:\\users\\umarm\\onedrive\\desktop\\vp_project\\vp_project\\data\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|solutionrelative:vp_project\\data\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F089DD-1427-4B74-A82D-CA53B0F517C6}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\umarm\\onedrive\\desktop\\vp_project\\dataaccesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F089DD-1427-4B74-A82D-CA53B0F517C6}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|c:\\users\\umarm\\onedrive\\desktop\\vp_project\\vp_project\\vp_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|solutionrelative:vp_project\\vp_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|c:\\users\\umarm\\onedrive\\desktop\\vp_project\\vp_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|solutionrelative:vp_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|c:\\users\\umarm\\onedrive\\desktop\\vp_project\\vp_project\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|solutionrelative:vp_project\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|c:\\users\\umarm\\onedrive\\desktop\\vp_project\\vp_project\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F0811AD-763D-4A07-8FA9-9A6FCB7F748B}|Vp_project\\Vp_project.csproj|solutionrelative:vp_project\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9DBCBA-B220-43AF-8F48-92B0A4F14439}|ModelClassLibrary\\ModelClassLibrary.csproj|c:\\users\\umarm\\onedrive\\desktop\\vp_project\\modelclasslibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9DBCBA-B220-43AF-8F48-92B0A4F14439}|ModelClassLibrary\\ModelClassLibrary.csproj|solutionrelative:modelclasslibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Vp_project\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Vp_project\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAIcAAAAAdmZmZmYEwJQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-25T14:07:10.413Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Services\\CategoryService\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Vp_project\\Services\\CategoryService\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Services\\CategoryService\\CategoryService.cs",
+              "RelativeToolTip": "Vp_project\\Services\\CategoryService\\CategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAC4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:03:46.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Services\\ProductService\\ProductService.cs",
+              "RelativeDocumentMoniker": "Vp_project\\Services\\ProductService\\ProductService.cs",
+              "ToolTip": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Services\\ProductService\\ProductService.cs",
+              "RelativeToolTip": "Vp_project\\Services\\ProductService\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:03:27.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Services\\ProductService\\IProductService.cs",
+              "RelativeDocumentMoniker": "Vp_project\\Services\\ProductService\\IProductService.cs",
+              "ToolTip": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Services\\ProductService\\IProductService.cs",
+              "RelativeToolTip": "Vp_project\\Services\\ProductService\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:03:32.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBhelper.cs",
+              "DocumentMoniker": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\DataAccessLayer\\DBhelper.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DBhelper.cs",
+              "ToolTip": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\DataAccessLayer\\DBhelper.cs",
+              "RelativeToolTip": "DataAccessLayer\\DBhelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:09:38.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBcontext.cs",
+              "DocumentMoniker": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\DataAccessLayer\\DBcontext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DBcontext.cs",
+              "ToolTip": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\DataAccessLayer\\DBcontext.cs",
+              "RelativeToolTip": "DataAccessLayer\\DBcontext.cs",
+              "ViewState": "AQIAAA0AAADA/////x8wwE0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:08:31.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\_Imports.razor",
+              "RelativeDocumentMoniker": "Vp_project\\_Imports.razor",
+              "ToolTip": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\_Imports.razor",
+              "RelativeToolTip": "Vp_project\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T14:04:13.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Vp_project\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "Vp_project\\Shared\\MainLayout.razor",
+              "ViewState": "AQIAAAQAAAAAMjMzMzMLwAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T13:59:34.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Vp_project\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Pages\\Index.razor",
+              "RelativeToolTip": "Vp_project\\Pages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T14:14:01.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Vp_project\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Vp_project\\Shared\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T13:59:35.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Shared\\Category.cs",
+              "RelativeDocumentMoniker": "Vp_project\\Shared\\Category.cs",
+              "ToolTip": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Shared\\Category.cs",
+              "RelativeToolTip": "Vp_project\\Shared\\Category.cs",
+              "ViewState": "AQIAAAgAAAAAMzMzMzMLwA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:16:37.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Services\\CategoryService\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Vp_project\\Services\\CategoryService\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Services\\CategoryService\\ICategoryService.cs",
+              "RelativeToolTip": "Vp_project\\Services\\CategoryService\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:03:41.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductList.razor",
+              "DocumentMoniker": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Shared\\ProductList.razor",
+              "RelativeDocumentMoniker": "Vp_project\\Shared\\ProductList.razor",
+              "ToolTip": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Shared\\ProductList.razor",
+              "RelativeToolTip": "Vp_project\\Shared\\ProductList.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T14:39:12.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Shared\\Product.cs",
+              "RelativeDocumentMoniker": "Vp_project\\Shared\\Product.cs",
+              "ToolTip": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Shared\\Product.cs",
+              "RelativeToolTip": "Vp_project\\Shared\\Product.cs",
+              "ViewState": "AQIAAA8AAACA/v///x85wBgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:16:30.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CartItems.razor",
+              "DocumentMoniker": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Pages\\CartItems.razor",
+              "RelativeDocumentMoniker": "Vp_project\\Pages\\CartItems.razor",
+              "ToolTip": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Pages\\CartItems.razor",
+              "RelativeToolTip": "Vp_project\\Pages\\CartItems.razor",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T15:28:53.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductDetails.razor",
+              "DocumentMoniker": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Pages\\ProductDetails.razor",
+              "RelativeDocumentMoniker": "Vp_project\\Pages\\ProductDetails.razor",
+              "ToolTip": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Pages\\ProductDetails.razor",
+              "RelativeToolTip": "Vp_project\\Pages\\ProductDetails.razor",
+              "ViewState": "AQIAACcAAABgZGZmZuYpwDkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T14:14:16.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\ModelClassLibrary\\Cart.cs",
+              "RelativeDocumentMoniker": "ModelClassLibrary\\Cart.cs",
+              "ToolTip": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\ModelClassLibrary\\Cart.cs",
+              "RelativeToolTip": "ModelClassLibrary\\Cart.cs",
+              "ViewState": "AQIAAAcAAACAmZmZmZkhwA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:09:44.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "Vp_project\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "RelativeToolTip": "Vp_project\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-23T14:55:39.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Vp_project\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Vp_project\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T15:29:13.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Vp_project\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Pages\\Counter.razor",
+              "RelativeToolTip": "Vp_project\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T15:07:45.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "Vp_project\\Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "Vp_project\\Pages\\_Host.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T15:07:43.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "favicon.png - PNG [32x32, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\wwwroot\\favicon.png",
+              "RelativeDocumentMoniker": "Vp_project\\wwwroot\\favicon.png",
+              "ToolTip": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\wwwroot\\favicon.png - PNG [32x32, 32 bit, PNG]",
+              "RelativeToolTip": "Vp_project\\wwwroot\\favicon.png - PNG [32x32, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-23T14:53:53.622Z",
+              "EditorCaption": " - PNG [32x32, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "dbo.Cart [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_69MIFBU_SQLEXPRESS/Ecommerce/True/SqlTable/dbo.Cart.sql",
+              "ToolTip": "dbo.Cart [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-23T14:39:48.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Data\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Vp_project\\Data\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Data\\WeatherForecast.cs",
+              "RelativeToolTip": "Vp_project\\Data\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:04:07.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WeatherForecastService.cs",
+              "DocumentMoniker": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Data\\WeatherForecastService.cs",
+              "RelativeDocumentMoniker": "Vp_project\\Data\\WeatherForecastService.cs",
+              "ToolTip": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Data\\WeatherForecastService.cs",
+              "RelativeToolTip": "Vp_project\\Data\\WeatherForecastService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:04:08.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Vp_project.csproj",
+              "DocumentMoniker": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Vp_project.csproj",
+              "RelativeDocumentMoniker": "Vp_project\\Vp_project.csproj",
+              "ToolTip": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Vp_project.csproj",
+              "RelativeToolTip": "Vp_project\\Vp_project.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-23T14:07:47.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Program.cs",
+              "RelativeDocumentMoniker": "Vp_project\\Program.cs",
+              "ToolTip": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Program.cs",
+              "RelativeToolTip": "Vp_project\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAPTMzMzPjvxAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:04:53.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\DataAccessLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\DataAccessLayer\\Class1.cs",
+              "RelativeToolTip": "DataAccessLayer\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:57:15.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\App.razor",
+              "RelativeDocumentMoniker": "Vp_project\\App.razor",
+              "ToolTip": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\App.razor",
+              "RelativeToolTip": "Vp_project\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T14:04:12.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SurveyPrompt.razor",
+              "DocumentMoniker": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Shared\\SurveyPrompt.razor",
+              "RelativeDocumentMoniker": "Vp_project\\Shared\\SurveyPrompt.razor",
+              "ToolTip": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\Vp_project\\Shared\\SurveyPrompt.razor",
+              "RelativeToolTip": "Vp_project\\Shared\\SurveyPrompt.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T14:04:16.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\ModelClassLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "ModelClassLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\umarm\\OneDrive\\Desktop\\Vp_project\\ModelClassLibrary\\Class1.cs",
+              "RelativeToolTip": "ModelClassLibrary\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:57:43.236Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
